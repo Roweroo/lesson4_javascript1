@@ -4,20 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 27, 2017
 
 ### Student Name:  
-(First and Last Name)
+Linda Rowe
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creation of a working expense calculator application through modification of 
+an existing HTML file.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/Roweroo/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The console.log feature allows information to be logged to the console. This feature also allows items to be "printed out" to the screen.
+2. Using the if/else conditional results in one or more alternative actions that are dependent on a true/false answer.
+3. An object is a collection of properties and methods. A method performs an action or a function.
+4. The var keyword needs to be in front of the variable name in order to avoid name clashes.
 
