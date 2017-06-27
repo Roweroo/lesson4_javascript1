@@ -14,7 +14,7 @@ Creation of a working expense calculator application through modification of
 an existing HTML file.
 
 ### View Project:
-https://github.com/Roweroo/lesson4_javascript1/
+
 
 ### Lessons Learned in the Assignment:
 1. The console.log feature allows information to be logged to the console. This feature also allows items to be "printed out" to the screen.
